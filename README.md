@@ -67,6 +67,6 @@
             Loading...
          </div>
       </div>
-       <input type="button" id="togglee" value="Toggler" onclick="click_me()"/>
+       <input type="button" id="togglee" value="Click me" onclick="click_me()"/>
    </body>
 </html>
